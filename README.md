@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👠 React + Redux Challenge</h1>
-<p>This is a ecommerce mobile application for iOS & Android, and a code challenge from a class in Rocketseat's Bootcamp. The challenge involves implementing flux architecture to a react native project from scratch. <a href="#description" >Read Description</a></p>
+<p>This is a ecommerce application for the web, and a code challenge from a class in Rocketseat's Bootcamp. The challenge involves implementing flux architecture to a react project from scratch. <a href="#description" >Read Description</a></p>
 
 <p align="center">
   <img src="https://img.shields.io/github/package-json/dependency-version/yarapolana/rocketshoes-react/react.svg" >
